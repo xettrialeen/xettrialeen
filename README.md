@@ -2,7 +2,7 @@
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=xettrialeen&show_icons=true&theme=radical" />
                                                                                                                                  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xettrialeen&layout=compact)](https://github.com/xettrialeen/github-readme-stats"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xettrialeen&layout=compact"/>
 
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left"  alt="SASS"  src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
