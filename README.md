@@ -43,9 +43,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/xettrialeen/xettrialeen/refs/heads/main/pacman.svg](https://raw.githubusercontent.com/xettrialeen/xettrialeen/refs/heads/main/pacman.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/xettrialeen/xettrialeen/refs/heads/main/pacman.svg](https://raw.githubusercontent.com/xettrialeen/xettrialeen/refs/heads/main/pacman.svg)">
-  <img alt="pacman contribution graph" src="[https://raw.githubusercontent.com/xettrialeen/xettrialeen/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/xettrialeen/xettrialeen/refs/heads/main/pacman.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xettrialeen/xettrialeen/refs/heads/main/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xettrialeen/xettrialeen/refs/heads/main/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xettrialeen/xettrialeen/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
